@@ -23,7 +23,7 @@ import matplotlib.pyplot as plt
 
 df = pd.read_csv('oqmd_data.csv') #Reading the data
 
-# Downsample majority classes to provide only 2000 samples
+# Downsample majority classes to provide only 2089 samples
 i=2089
 s1 = df.cs[df.cs.eq('cubic')].sample(n=i, random_state=9).index
 s2 = df.cs[df.cs.eq('trigonal')].sample(n=i, random_state=9).index
