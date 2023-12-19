@@ -1,6 +1,5 @@
 # ML_abx3_dataset
-# An inorganic ABX3 perovskite materials dataset for target property prediction and classification using machine learning.
-
+An inorganic ABX3 perovskite materials dataset for target property prediction and classification using machine learning.
 https://doi.org/10.48550/arXiv.2312.11335
 
 # Abstract
